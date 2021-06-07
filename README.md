@@ -8,7 +8,7 @@
 
 <a name="schema1"></a>
 
-# 1. Import labraries
+# 1. Import libraries
 ~~~python
 from pyspark.sql import SparkSession
 from pyspark.ml.feature import VectorAssembler
