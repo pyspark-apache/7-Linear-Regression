@@ -1,5 +1,5 @@
 # 7 Linear Regression
-1. [Import labraries](#schema1)
+1. [Import libraries](#schema1)
 2. [Handling categorical features ](#schema2)
 3. [train test split](#schema3)
 4. [Final comparison](#schema4)
